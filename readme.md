@@ -2,7 +2,7 @@
 ##Linked list of two-dimensional points
 
 ##This is hw 1 of data structure.
-
+![preview](1.png)
 ###Question
 For integer data sets, create a user-friendly, menu-driven program that implements a queue by a
 linked list, including the following operations. Please discuss the complexity for each operation.
